@@ -18,8 +18,8 @@ BuildArch:	noarch
 Nevoso Plasma 5 theme for OpenMandriva Linux
 
 %files
-%dir %{_kde5_datadir}/aurorae/themes/oma/
-%{_kde5_datadir}/aurorae/themes/oma/*
+%dir %{_kde5_datadir}/aurorae/themes/Nevoso/
+%{_kde5_datadir}/aurorae/themes/Nevoso/*
 
 #----------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Nevoso Plasma 5 theme for OpenMandriva Linux
 %build
 
 %install
-mkdir -p %{buildroot}%{_kde5_datadir}/aurorae/themes/oma
-cp * %{buildroot}%{_kde5_datadir}/aurorae/themes/oma/
+mkdir -p %{buildroot}%{_kde5_datadir}/aurorae/themes/Nevoso
+cp * %{buildroot}%{_kde5_datadir}/aurorae/themes/Nevoso/
 
  
