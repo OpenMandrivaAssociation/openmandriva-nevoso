@@ -1,9 +1,9 @@
 %define oname Nevoso
 %define bdate   2019.01.18
 
-Summary:    Plasma 5 theme "Nevoso" for OpenMandriva
+Summary:    Nevoso Plasma 5 Aurorae theme for OpenMandriva
 Name:   	openmandriva-nevoso
-Version:    1
+Version:    2
 Release:    1.0
 License:    GPL
 Group:  Graphical desktop/KDE
@@ -15,7 +15,7 @@ BuildRequires:	extra-cmake-modules
 BuildArch:	noarch
 
 %description
-Nevoso Plasma 5 theme for OpenMandriva Linux created by craig
+Nevoso Plasma 5 Aurorae theme for OpenMandriva Linux created by craig
 
 %files
 %dir %{_kde5_datadir}/aurorae/themes/Nevoso/
