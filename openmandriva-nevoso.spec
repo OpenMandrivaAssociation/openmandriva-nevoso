@@ -4,11 +4,12 @@
 Summary:    Plasma 5 theme "Nevoso" for OpenMandriva
 Name:   	openmandriva-nevoso
 Version:    1
-Release:    1
+Release:    1.0
 License:    GPL
 Group:  Graphical desktop/KDE
 Url:    https://www.opendesktop.org/u/caig/
 Source0:    %{oname}%{bdate}.tar.gz
+# Source backup available here: https://github.com/AngryPenguinPL/Nevoso
 
 BuildRequires:	extra-cmake-modules
 BuildArch:	noarch
