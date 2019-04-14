@@ -15,7 +15,7 @@ BuildRequires:	extra-cmake-modules
 BuildArch:	noarch
 
 %description
-Nevoso Plasma 5 Aurorae theme for OpenMandriva Linux created by craig
+Nevoso Plasma 5 Aurorae theme for OpenMandriva Linux created by caig
 
 %files
 %dir %{_kde5_datadir}/aurorae/themes/Nevoso/
