@@ -11,11 +11,10 @@ Url:    https://www.opendesktop.org/u/caig/
 Source0:    %{oname}%{bdate}.tar.gz
 
 BuildRequires:	extra-cmake-modules
-#BuildRequires:	cmake(ECM)
 BuildArch:	noarch
 
 %description
-Nevoso Plasma 5 theme for OpenMandriva Linux
+Nevoso Plasma 5 theme for OpenMandriva Linux created by craig
 
 %files
 %dir %{_kde5_datadir}/aurorae/themes/Nevoso/
@@ -31,5 +30,3 @@ Nevoso Plasma 5 theme for OpenMandriva Linux
 %install
 mkdir -p %{buildroot}%{_kde5_datadir}/aurorae/themes/Nevoso
 cp * %{buildroot}%{_kde5_datadir}/aurorae/themes/Nevoso/
-
- 
