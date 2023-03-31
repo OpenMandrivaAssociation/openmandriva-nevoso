@@ -4,7 +4,7 @@
 Summary:    Nevoso Plasma 5 Aurorae theme for OpenMandriva
 Name:   	openmandriva-nevoso
 Version:    1
-Release:    2
+Release:    3
 License:    GPL
 Group:  Graphical desktop/KDE
 Url:    https://www.opendesktop.org/u/caig/
